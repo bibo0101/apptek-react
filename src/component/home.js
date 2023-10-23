@@ -112,7 +112,7 @@ const Home = () => {
                   </a>
                 </div>
               </div>
-              <div className="col-md-3">
+              <div className="col-xs-3 col-md-3">
                 <a>
                   <img src="./graduation.png" alt="" className="acci-css" />
                   <span className="text-bold f-size">+120</span>
