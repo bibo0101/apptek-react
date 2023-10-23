@@ -31,7 +31,7 @@ const Loginpage =() =>{
 			</div>
 		</div>
 		
-		<div className="col-md-7 p-0 " >
+		<div className="col-md-7 col-xl-7 p-0 " >
 		
 			<div className="" >
 				<img align="middle" src="img2.png" className="img-fluid"  alt="Responsive image" style={{height:"620px",width:"100%"}}/></div>
